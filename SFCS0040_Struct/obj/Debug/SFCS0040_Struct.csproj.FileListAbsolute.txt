@@ -1,0 +1,12 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0040_Struct\bin\Debug\SFCS0040_Struct.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0040_Struct\bin\Debug\SFCS0040_Struct.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0040_Struct\bin\Debug\SFCS0040_Struct.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0040_Struct\obj\Debug\SFCS0040_Struct.csprojAssemblyReference.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0040_Struct\obj\Debug\SFCS0040_Struct.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0040_Struct\obj\Debug\SFCS0040_Struct.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole_Study\SFCS0040_Struct\bin\Debug\SFCS0040_Struct.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole_Study\SFCS0040_Struct\bin\Debug\SFCS0040_Struct.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole_Study\SFCS0040_Struct\bin\Debug\SFCS0040_Struct.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole_Study\SFCS0040_Struct\obj\Debug\SFCS0040_Struct.csprojAssemblyReference.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole_Study\SFCS0040_Struct\obj\Debug\SFCS0040_Struct.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole_Study\SFCS0040_Struct\obj\Debug\SFCS0040_Struct.pdb

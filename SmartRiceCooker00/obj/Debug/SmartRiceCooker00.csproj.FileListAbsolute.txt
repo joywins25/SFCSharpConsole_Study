@@ -1,0 +1,6 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SmartRiceCooker00\bin\Debug\SmartRiceCooker00.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SmartRiceCooker00\bin\Debug\SmartRiceCooker00.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SmartRiceCooker00\bin\Debug\SmartRiceCooker00.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SmartRiceCooker00\obj\Debug\SmartRiceCooker00.csprojAssemblyReference.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SmartRiceCooker00\obj\Debug\SmartRiceCooker00.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SmartRiceCooker00\obj\Debug\SmartRiceCooker00.pdb

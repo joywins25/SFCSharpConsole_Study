@@ -1,0 +1,6 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0070_Loop\bin\Debug\SFCS0070_Loop.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0070_Loop\bin\Debug\SFCS0070_Loop.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0070_Loop\bin\Debug\SFCS0070_Loop.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0070_Loop\obj\Debug\SFCS0070_Loop.csprojAssemblyReference.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0070_Loop\obj\Debug\SFCS0070_Loop.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0070_Loop\obj\Debug\SFCS0070_Loop.pdb

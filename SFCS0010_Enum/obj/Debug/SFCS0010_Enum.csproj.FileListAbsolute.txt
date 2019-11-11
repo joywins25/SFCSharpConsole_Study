@@ -1,0 +1,12 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0010_Enum\bin\Debug\SFCS0010_Enum.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0010_Enum\bin\Debug\SFCS0010_Enum.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0010_Enum\bin\Debug\SFCS0010_Enum.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0010_Enum\obj\Debug\SFCS0010_Enum.csprojAssemblyReference.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0010_Enum\obj\Debug\SFCS0010_Enum.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0010_Enum\obj\Debug\SFCS0010_Enum.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole_Study\SFCS0010_Enum\bin\Debug\SFCS0010_Enum.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole_Study\SFCS0010_Enum\bin\Debug\SFCS0010_Enum.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole_Study\SFCS0010_Enum\bin\Debug\SFCS0010_Enum.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole_Study\SFCS0010_Enum\obj\Debug\SFCS0010_Enum.csprojAssemblyReference.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole_Study\SFCS0010_Enum\obj\Debug\SFCS0010_Enum.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole_Study\SFCS0010_Enum\obj\Debug\SFCS0010_Enum.pdb

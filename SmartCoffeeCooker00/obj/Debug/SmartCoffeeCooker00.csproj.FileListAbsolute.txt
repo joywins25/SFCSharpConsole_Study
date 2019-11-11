@@ -1,0 +1,6 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SmartCoffeeCooker00\obj\Debug\SmartCoffeeCooker00.csprojAssemblyReference.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SmartCoffeeCooker00\bin\Debug\SmartCoffeeCooker00.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SmartCoffeeCooker00\bin\Debug\SmartCoffeeCooker00.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SmartCoffeeCooker00\bin\Debug\SmartCoffeeCooker00.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SmartCoffeeCooker00\obj\Debug\SmartCoffeeCooker00.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SmartCoffeeCooker00\obj\Debug\SmartCoffeeCooker00.pdb

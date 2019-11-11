@@ -1,0 +1,5 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCSharpConsole\bin\Debug\SFCSharpConsole.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCSharpConsole\bin\Debug\SFCSharpConsole.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCSharpConsole\bin\Debug\SFCSharpConsole.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCSharpConsole\obj\Debug\SFCSharpConsole.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCSharpConsole\obj\Debug\SFCSharpConsole.pdb

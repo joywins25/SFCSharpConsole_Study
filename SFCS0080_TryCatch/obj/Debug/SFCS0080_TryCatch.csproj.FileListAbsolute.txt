@@ -1,0 +1,6 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0080_TryCatch\bin\Debug\SFCS0080_TryCatch.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0080_TryCatch\bin\Debug\SFCS0080_TryCatch.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0080_TryCatch\bin\Debug\SFCS0080_TryCatch.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0080_TryCatch\obj\Debug\SFCS0080_TryCatch.csprojAssemblyReference.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0080_TryCatch\obj\Debug\SFCS0080_TryCatch.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0080_TryCatch\obj\Debug\SFCS0080_TryCatch.pdb

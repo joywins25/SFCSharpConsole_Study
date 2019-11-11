@@ -1,0 +1,12 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0100_Checked\bin\Debug\SFCS0100_Checked.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0100_Checked\bin\Debug\SFCS0100_Checked.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0100_Checked\bin\Debug\SFCS0100_Checked.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0100_Checked\obj\Debug\SFCS0100_Checked.csprojAssemblyReference.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0100_Checked\obj\Debug\SFCS0100_Checked.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0100_Checked\obj\Debug\SFCS0100_Checked.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole_Study\SFCS0100_Checked\bin\Debug\SFCS0100_Checked.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole_Study\SFCS0100_Checked\bin\Debug\SFCS0100_Checked.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole_Study\SFCS0100_Checked\bin\Debug\SFCS0100_Checked.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole_Study\SFCS0100_Checked\obj\Debug\SFCS0100_Checked.csprojAssemblyReference.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole_Study\SFCS0100_Checked\obj\Debug\SFCS0100_Checked.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole_Study\SFCS0100_Checked\obj\Debug\SFCS0100_Checked.pdb
