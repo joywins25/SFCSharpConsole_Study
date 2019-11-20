@@ -1,0 +1,10 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02472_DelegateEvent\bin\Debug\SFCS02472_DelegateEvent.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02472_DelegateEvent\bin\Debug\SFCS02472_DelegateEvent.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02472_DelegateEvent\bin\Debug\SFCS02472_DelegateEvent.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02472_DelegateEvent\obj\Debug\SFCS02472_DelegateEvent.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02472_DelegateEvent\obj\Debug\SFCS02472_DelegateEvent.pdb
+D:\SFCSharp\SFCSharpConsole_Study\SFCS02472_DelegateEvent\bin\Debug\SFCS02472_DelegateEvent.exe.config
+D:\SFCSharp\SFCSharpConsole_Study\SFCS02472_DelegateEvent\bin\Debug\SFCS02472_DelegateEvent.exe
+D:\SFCSharp\SFCSharpConsole_Study\SFCS02472_DelegateEvent\bin\Debug\SFCS02472_DelegateEvent.pdb
+D:\SFCSharp\SFCSharpConsole_Study\SFCS02472_DelegateEvent\obj\Debug\SFCS02472_DelegateEvent.exe
+D:\SFCSharp\SFCSharpConsole_Study\SFCS02472_DelegateEvent\obj\Debug\SFCS02472_DelegateEvent.pdb

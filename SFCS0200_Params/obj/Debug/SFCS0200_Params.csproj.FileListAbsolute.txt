@@ -1,0 +1,11 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0200_Params\bin\Debug\SFCS0200_Params.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0200_Params\bin\Debug\SFCS0200_Params.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0200_Params\bin\Debug\SFCS0200_Params.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0200_Params\obj\Debug\SFCS0200_Params.csprojAssemblyReference.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0200_Params\obj\Debug\SFCS0200_Params.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0200_Params\obj\Debug\SFCS0200_Params.pdb
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0200_Params\bin\Debug\SFCS0200_Params.exe.config
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0200_Params\bin\Debug\SFCS0200_Params.exe
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0200_Params\bin\Debug\SFCS0200_Params.pdb
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0200_Params\obj\Debug\SFCS0200_Params.exe
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0200_Params\obj\Debug\SFCS0200_Params.pdb

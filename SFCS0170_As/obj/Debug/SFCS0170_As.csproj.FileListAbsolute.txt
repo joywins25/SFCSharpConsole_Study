@@ -1,0 +1,11 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0170_As\bin\Debug\SFCS0170_As.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0170_As\bin\Debug\SFCS0170_As.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0170_As\bin\Debug\SFCS0170_As.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0170_As\obj\Debug\SFCS0170_As.csprojAssemblyReference.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0170_As\obj\Debug\SFCS0170_As.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0170_As\obj\Debug\SFCS0170_As.pdb
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0170_As\bin\Debug\SFCS0170_As.exe.config
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0170_As\bin\Debug\SFCS0170_As.exe
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0170_As\bin\Debug\SFCS0170_As.pdb
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0170_As\obj\Debug\SFCS0170_As.exe
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0170_As\obj\Debug\SFCS0170_As.pdb

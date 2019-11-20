@@ -1,0 +1,12 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0110_SQLServer\bin\Debug\SFCS0110_SQLServer.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0110_SQLServer\bin\Debug\SFCS0110_SQLServer.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0110_SQLServer\bin\Debug\SFCS0110_SQLServer.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0110_SQLServer\obj\Debug\SFCS0110_SQLServer.csprojAssemblyReference.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0110_SQLServer\obj\Debug\SFCS0110_SQLServer.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0110_SQLServer\obj\Debug\SFCS0110_SQLServer.pdb
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0110_SQLServer\bin\Debug\SFCS0110_SQLServer.exe.config
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0110_SQLServer\bin\Debug\SFCS0110_SQLServer.exe
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0110_SQLServer\bin\Debug\SFCS0110_SQLServer.pdb
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0110_SQLServer\obj\Debug\SFCS0110_SQLServer.csprojAssemblyReference.cache
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0110_SQLServer\obj\Debug\SFCS0110_SQLServer.exe
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0110_SQLServer\obj\Debug\SFCS0110_SQLServer.pdb

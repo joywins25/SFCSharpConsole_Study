@@ -1,0 +1,5 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0120_SQLServer\bin\Debug\SFCS0120_SQLServer.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0120_SQLServer\bin\Debug\SFCS0120_SQLServer.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0120_SQLServer\bin\Debug\SFCS0120_SQLServer.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0120_SQLServer\obj\Debug\SFCS0120_SQLServer.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0120_SQLServer\obj\Debug\SFCS0120_SQLServer.pdb

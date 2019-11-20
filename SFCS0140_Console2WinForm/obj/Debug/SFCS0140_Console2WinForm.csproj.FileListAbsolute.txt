@@ -1,0 +1,14 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0140_Console2WinForm\bin\Debug\SFCS0140_Console2WinForm.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0140_Console2WinForm\bin\Debug\SFCS0140_Console2WinForm.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0140_Console2WinForm\bin\Debug\SFCS0140_Console2WinForm.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0140_Console2WinForm\obj\Debug\SFCS0140_Console2WinForm.csprojAssemblyReference.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0140_Console2WinForm\obj\Debug\SFCS0140_Console2WinForm.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0140_Console2WinForm\obj\Debug\SFCS0140_Console2WinForm.pdb
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0140_Console2WinForm\bin\Debug\SFCS0140_Console2WinForm.exe.config
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0140_Console2WinForm\bin\Debug\SFCS0140_Console2WinForm.exe
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0140_Console2WinForm\bin\Debug\SFCS0140_Console2WinForm.pdb
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0140_Console2WinForm\obj\Debug\SFCS0140_Console2WinForm.csprojAssemblyReference.cache
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0140_Console2WinForm\obj\Debug\SFCS0140_Console2WinForm.exe
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0140_Console2WinForm\obj\Debug\SFCS0140_Console2WinForm.pdb
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0140_Console2WinForm\obj\Debug\SFCS0140_Console2WinForm.Program.resources
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0140_Console2WinForm\obj\Debug\SFCS0140_Console2WinForm.csproj.GenerateResource.cache

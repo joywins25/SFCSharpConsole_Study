@@ -1,0 +1,10 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02471_DelegateAnonymous\bin\Debug\SFCS02471_DelegateAnonymous.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02471_DelegateAnonymous\bin\Debug\SFCS02471_DelegateAnonymous.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02471_DelegateAnonymous\bin\Debug\SFCS02471_DelegateAnonymous.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02471_DelegateAnonymous\obj\Debug\SFCS02471_DelegateAnonymous.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02471_DelegateAnonymous\obj\Debug\SFCS02471_DelegateAnonymous.pdb
+D:\SFCSharp\SFCSharpConsole_Study\SFCS02471_DelegateAnonymous\bin\Debug\SFCS02471_DelegateAnonymous.exe.config
+D:\SFCSharp\SFCSharpConsole_Study\SFCS02471_DelegateAnonymous\bin\Debug\SFCS02471_DelegateAnonymous.exe
+D:\SFCSharp\SFCSharpConsole_Study\SFCS02471_DelegateAnonymous\bin\Debug\SFCS02471_DelegateAnonymous.pdb
+D:\SFCSharp\SFCSharpConsole_Study\SFCS02471_DelegateAnonymous\obj\Debug\SFCS02471_DelegateAnonymous.exe
+D:\SFCSharp\SFCSharpConsole_Study\SFCS02471_DelegateAnonymous\obj\Debug\SFCS02471_DelegateAnonymous.pdb

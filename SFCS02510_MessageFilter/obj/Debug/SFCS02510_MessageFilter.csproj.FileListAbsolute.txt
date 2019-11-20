@@ -1,0 +1,6 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02510_MessageFilter\bin\Debug\SFCS02510_MessageFilter.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02510_MessageFilter\bin\Debug\SFCS02510_MessageFilter.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02510_MessageFilter\bin\Debug\SFCS02510_MessageFilter.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02510_MessageFilter\obj\Debug\SFCS02510_MessageFilter.csprojAssemblyReference.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02510_MessageFilter\obj\Debug\SFCS02510_MessageFilter.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02510_MessageFilter\obj\Debug\SFCS02510_MessageFilter.pdb

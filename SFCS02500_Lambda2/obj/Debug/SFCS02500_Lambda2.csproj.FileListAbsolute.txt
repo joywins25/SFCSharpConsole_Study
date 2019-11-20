@@ -1,0 +1,12 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02500_Lambda2\bin\Debug\SFCS02500_Lambda2.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02500_Lambda2\bin\Debug\SFCS02500_Lambda2.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02500_Lambda2\bin\Debug\SFCS02500_Lambda2.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02500_Lambda2\obj\Debug\SFCS02500_Lambda2.csprojAssemblyReference.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02500_Lambda2\obj\Debug\SFCS02500_Lambda2.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02500_Lambda2\obj\Debug\SFCS02500_Lambda2.pdb
+D:\SFCSharp\SFCSharpConsole_Study\SFCS02500_Lambda2\bin\Debug\SFCS02500_Lambda2.exe.config
+D:\SFCSharp\SFCSharpConsole_Study\SFCS02500_Lambda2\bin\Debug\SFCS02500_Lambda2.exe
+D:\SFCSharp\SFCSharpConsole_Study\SFCS02500_Lambda2\bin\Debug\SFCS02500_Lambda2.pdb
+D:\SFCSharp\SFCSharpConsole_Study\SFCS02500_Lambda2\obj\Debug\SFCS02500_Lambda2.csprojAssemblyReference.cache
+D:\SFCSharp\SFCSharpConsole_Study\SFCS02500_Lambda2\obj\Debug\SFCS02500_Lambda2.exe
+D:\SFCSharp\SFCSharpConsole_Study\SFCS02500_Lambda2\obj\Debug\SFCS02500_Lambda2.pdb

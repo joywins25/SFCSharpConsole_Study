@@ -1,0 +1,12 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02460_Delegate\bin\Debug\SFCS02460_Delegate.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02460_Delegate\bin\Debug\SFCS02460_Delegate.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02460_Delegate\bin\Debug\SFCS02460_Delegate.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02460_Delegate\obj\Debug\SFCS02460_Delegate.csprojAssemblyReference.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02460_Delegate\obj\Debug\SFCS02460_Delegate.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02460_Delegate\obj\Debug\SFCS02460_Delegate.pdb
+D:\SFCSharp\SFCSharpConsole_Study\SFCS02460_Delegate\bin\Debug\SFCS02460_Delegate.exe.config
+D:\SFCSharp\SFCSharpConsole_Study\SFCS02460_Delegate\bin\Debug\SFCS02460_Delegate.exe
+D:\SFCSharp\SFCSharpConsole_Study\SFCS02460_Delegate\bin\Debug\SFCS02460_Delegate.pdb
+D:\SFCSharp\SFCSharpConsole_Study\SFCS02460_Delegate\obj\Debug\SFCS02460_Delegate.csprojAssemblyReference.cache
+D:\SFCSharp\SFCSharpConsole_Study\SFCS02460_Delegate\obj\Debug\SFCS02460_Delegate.exe
+D:\SFCSharp\SFCSharpConsole_Study\SFCS02460_Delegate\obj\Debug\SFCS02460_Delegate.pdb

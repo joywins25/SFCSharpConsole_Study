@@ -1,0 +1,11 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0190_Argument_RefOut\bin\Debug\SFCS0190_Argument_RefOut.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0190_Argument_RefOut\bin\Debug\SFCS0190_Argument_RefOut.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0190_Argument_RefOut\bin\Debug\SFCS0190_Argument_RefOut.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0190_Argument_RefOut\obj\Debug\SFCS0190_Argument_RefOut.csprojAssemblyReference.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0190_Argument_RefOut\obj\Debug\SFCS0190_Argument_RefOut.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0190_Argument_RefOut\obj\Debug\SFCS0190_Argument_RefOut.pdb
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0190_Argument_RefOut\bin\Debug\SFCS0190_Argument_RefOut.exe.config
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0190_Argument_RefOut\bin\Debug\SFCS0190_Argument_RefOut.exe
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0190_Argument_RefOut\bin\Debug\SFCS0190_Argument_RefOut.pdb
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0190_Argument_RefOut\obj\Debug\SFCS0190_Argument_RefOut.exe
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0190_Argument_RefOut\obj\Debug\SFCS0190_Argument_RefOut.pdb

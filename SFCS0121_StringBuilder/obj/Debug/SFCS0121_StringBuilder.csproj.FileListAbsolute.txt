@@ -1,0 +1,6 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0121_StringBuilder\bin\Debug\SFCS0121_StringBuilder.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0121_StringBuilder\bin\Debug\SFCS0121_StringBuilder.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0121_StringBuilder\bin\Debug\SFCS0121_StringBuilder.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0121_StringBuilder\obj\Debug\SFCS0121_StringBuilder.csprojAssemblyReference.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0121_StringBuilder\obj\Debug\SFCS0121_StringBuilder.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0121_StringBuilder\obj\Debug\SFCS0121_StringBuilder.pdb

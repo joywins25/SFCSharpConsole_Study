@@ -1,0 +1,11 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0160_Inheritance\bin\Debug\SFCS0160_Inheritance.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0160_Inheritance\bin\Debug\SFCS0160_Inheritance.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0160_Inheritance\bin\Debug\SFCS0160_Inheritance.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0160_Inheritance\obj\Debug\SFCS0160_Inheritance.csprojAssemblyReference.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0160_Inheritance\obj\Debug\SFCS0160_Inheritance.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0160_Inheritance\obj\Debug\SFCS0160_Inheritance.pdb
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0160_Inheritance\bin\Debug\SFCS0160_Inheritance.exe.config
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0160_Inheritance\bin\Debug\SFCS0160_Inheritance.exe
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0160_Inheritance\bin\Debug\SFCS0160_Inheritance.pdb
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0160_Inheritance\obj\Debug\SFCS0160_Inheritance.exe
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0160_Inheritance\obj\Debug\SFCS0160_Inheritance.pdb

@@ -1,0 +1,5 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02463_DelegateGeneric\bin\Debug\SFCS02463_DelegateGeneric.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02463_DelegateGeneric\bin\Debug\SFCS02463_DelegateGeneric.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02463_DelegateGeneric\bin\Debug\SFCS02463_DelegateGeneric.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02463_DelegateGeneric\obj\Debug\SFCS02463_DelegateGeneric.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS02463_DelegateGeneric\obj\Debug\SFCS02463_DelegateGeneric.pdb

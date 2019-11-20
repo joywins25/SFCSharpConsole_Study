@@ -1,0 +1,5 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0122_SqlCommand\bin\Debug\SFCS0122_SqlCommand.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0122_SqlCommand\bin\Debug\SFCS0122_SqlCommand.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0122_SqlCommand\bin\Debug\SFCS0122_SqlCommand.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0122_SqlCommand\obj\Debug\SFCS0122_SqlCommand.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0122_SqlCommand\obj\Debug\SFCS0122_SqlCommand.pdb

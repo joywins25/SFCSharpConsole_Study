@@ -1,0 +1,10 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0180_Property\bin\Debug\SFCS0180_Property.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0180_Property\bin\Debug\SFCS0180_Property.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0180_Property\bin\Debug\SFCS0180_Property.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0180_Property\obj\Debug\SFCS0180_Property.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0180_Property\obj\Debug\SFCS0180_Property.pdb
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0180_Property\bin\Debug\SFCS0180_Property.exe.config
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0180_Property\bin\Debug\SFCS0180_Property.exe
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0180_Property\bin\Debug\SFCS0180_Property.pdb
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0180_Property\obj\Debug\SFCS0180_Property.exe
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0180_Property\obj\Debug\SFCS0180_Property.pdb

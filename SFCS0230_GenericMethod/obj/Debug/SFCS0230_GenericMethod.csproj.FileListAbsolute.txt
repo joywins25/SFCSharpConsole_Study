@@ -1,0 +1,10 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0230_GenericMethod\bin\Debug\SFCS0230_GenericMethod.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0230_GenericMethod\bin\Debug\SFCS0230_GenericMethod.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0230_GenericMethod\bin\Debug\SFCS0230_GenericMethod.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0230_GenericMethod\obj\Debug\SFCS0230_GenericMethod.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpConsole\SFCS0230_GenericMethod\obj\Debug\SFCS0230_GenericMethod.pdb
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0230_GenericMethod\bin\Debug\SFCS0230_GenericMethod.exe.config
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0230_GenericMethod\bin\Debug\SFCS0230_GenericMethod.exe
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0230_GenericMethod\bin\Debug\SFCS0230_GenericMethod.pdb
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0230_GenericMethod\obj\Debug\SFCS0230_GenericMethod.exe
+D:\SFCSharp\SFCSharpConsole_Study\SFCS0230_GenericMethod\obj\Debug\SFCS0230_GenericMethod.pdb
